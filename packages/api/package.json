@@ -1,0 +1,11 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "ts-node-dev --respawn src/server.ts"
+  },
+  "dependencies": {
+    "fastify": "^3.11.0"
+  }
+}

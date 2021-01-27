@@ -1,0 +1,12 @@
+**/*.d.ts
+**/*.test.ts
+**/*.spec.ts
+**/*.stories.tsx
+**/node_modules/*
+**/__test__/*
+**/__tests__/*
+**/stories/*
+**/webpack.*.*
+**/babel.config.*
+**/.babelrc
+**/dist/*

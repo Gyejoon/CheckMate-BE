@@ -3,6 +3,7 @@ CheckMate BE (Admin, Api, Batch) MonoRepo
 
 
 ## Tech Stacks
+Mono Repo
 
 ### Api Server
 - Fastify
